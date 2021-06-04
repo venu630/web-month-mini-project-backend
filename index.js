@@ -15,7 +15,7 @@ let data = [
 {username: "shadabggb", email:"shadasdgb@gmail.com"},
 
 ];
-
+//kuch editing karta tab
 app.use(cors());
 app.use(express.json());
 
